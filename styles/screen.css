@@ -6,6 +6,10 @@ body {
     text-align: center;
 }
 
+#design {
+    background: linear-gradient(rgb(129, 159, 136) , rgb(32, 164, 65) 60%,rgb(129, 159, 136));
+}
+
 nav {
     margin: 40px auto 0 auto;
     width: 350px;
@@ -49,7 +53,56 @@ img.about {
     opacity: 0.5;
 }
 
-p {
-    font-size: 1.7em
-    
+article{
+    margin: 20px;
+    padding: 20px;
+    font-size: 10px;
+
+}
+
+
+
+#arttitle {
+    background-color: rgb(171, 191, 175);
+    color: rgb(46, 114, 61);
+    border-radius: 50px;
+}
+
+#artdate{
+    color: black;
+    font-weight: bold;
+    margin: -20px auto 40px auto;
+    word-spacing: 5px;
+    width: 300px;
+}
+
+#artpost{
+    background-color: rgb(46, 114, 61);
+    color: white;
+    padding: 50px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    border-radius: 50px;
+}
+
+p{
+    background-color: rgb(46, 114, 61);
+    color: white;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    border-radius: 50px;
+    font-size: 1.5em;
+}
+
+#abthead{
+    background-color: rgb(171, 191, 175);
+    color: rgb(46, 114, 61);
+    border-radius: 50px;
+}
+
+footer{
+    width: 870px;
+    margin: auto auto auto auto;
 }

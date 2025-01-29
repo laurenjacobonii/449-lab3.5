@@ -16,14 +16,10 @@
     </ul>
     </nav>
     <article>
-        <h1 id="arttitle">{{ title }}</h1>
-        <p id="artdate"><strong>Date:</strong> {{ date | date: "%B %d, %Y" }}</p>
+        <h1 id="abthead">{{ title }}</h1>
         <div id="artpost">
             {{ content }}
         </div>
     </article>
-    <footer>
-        <p>&copy; {% year %} Interstellar Explorer</p>
-    </footer>
 </body>
 </html>
