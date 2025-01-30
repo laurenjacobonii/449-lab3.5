@@ -1,13 +1,13 @@
 body {
     font-family: Helvetica, sans-serif;
     color: #EAE8FF;
-    background: #7d9a83;
+    background: #76a47f;
     padding: 0 40px;
     text-align: center;
 }
 
 #design {
-    background: linear-gradient(rgb(129, 159, 136) , rgb(32, 164, 65) 60%,rgb(129, 159, 136));
+background: linear-gradient(rgb(171, 186, 171),rgb(87, 192, 115));
 }
 
 nav {
@@ -63,7 +63,7 @@ article{
 
 
 #arttitle {
-    background-color: rgb(171, 191, 175);
+    background-color: rgb(217, 227, 219);
     color: rgb(46, 114, 61);
     border-radius: 50px;
 }
@@ -97,7 +97,7 @@ p{
 }
 
 #abthead{
-    background-color: rgb(171, 191, 175);
+    background-color: rgb(217, 227, 219);
     color: rgb(46, 114, 61);
     border-radius: 50px;
 }
